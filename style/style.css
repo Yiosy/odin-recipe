@@ -1,0 +1,32 @@
+#return {
+    color: red;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+body {
+    color: white;
+    background-color: black;
+}
+#mainpage {
+    background-color: black;
+    text-align: center;
+}
+li {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    color: red;
+ }
+ .recipe {
+     width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    color: red;
+ }
+ .lista {
+    color: greenyellow;
+ }
+ .title {
+    color: rebeccapurple;
+ }
