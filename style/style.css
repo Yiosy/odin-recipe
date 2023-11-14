@@ -1,33 +1,80 @@
 #return {
     color: red;
-    font-size: 50px;
+    font-size: 48px;
     font-weight: 700;
-    text-align: center;
+    margin-left: 35px;
+    width: 400px;
+    border: ;
 }
 body {
     color: white;
-    background-color: black;
+    background: black;
     font-family: 'Courier New', Courier, monospace;
 }
-#mainpage {
-    background-color: black;
-    text-align: center;
-}
-li {
-    width: 50%;
-    margin: 0 auto;
-    text-align: left;
-    color: red;
- }
  .recipe {
-     width: 50%;
-    margin: 0 auto;
-    text-align: left;
-    color: red;
+margin-left: 200px;
+border: 1px rebeccapurple solid;
+width: 68px;
+background-color: yellow;
+color:black;
+font-weight: 800;
+font-style: italic;
  }
  .lista {
-    color: greenyellow;
+color: white;
+ margin: 0 auto;
+ border: 2px solid blueviolet;
+ padding: px;
+ background-color: rebeccapurple;
+ display: inline-block;
+ width: 190px;
+font-weight: bold;
+font-style: italic;
+    
  }
  .title {
     color: rebeccapurple;
+    padding: 4px ;
+    border: 4px solid seagreen;
+    display: inline;
+    background-color: black;
+    margin-left: 220px;
+ }
+ #cookbook {
+    width: auto;
+    height: 500px;
+
+ }
+ .frytki {
+    color: yellow;
+    border: yellow 1px solid;
+    width: 400px;
+    background-color: darkblue;
+    padding: 2px;
+ }
+ .ingredients {
+    margin-left: 180px;
+    border: 1px rebeccapurple solid;
+    width: 110px;
+    background-color: yellow;
+    color:black;
+    font-weight: 800;
+    font-style: italic;
+    padding: 2px;
+ }
+ .description {
+    width: 410px;
+    border: yellow 1px solid;
+    margin-left: 35px;
+    background-color: darkblue;
+    color: yellow;
+ }
+ #photo {
+    margin-left: 135px;
+ }
+ #photo2 {
+    margin-left: 35px;
+ }
+ #photo3 {
+    margin-left: 135px;
  }
